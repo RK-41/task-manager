@@ -1,3 +1,17 @@
+# Task Manager
+A web app to keep track of various tasks.
+
+## Functionalities:
+- Add task.
+- Edit task.
+- Delete task.
+- Mark complete.
+
+## App's Snap
+<img src="https://github.com/RK-41/learning-react/assets/73783957/946c9505-7b73-47a5-979f-a832832a2de8" alt="s1" width="600"/>
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
