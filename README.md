@@ -1,6 +1,9 @@
 # Task Manager
 A web app to keep track of various tasks.
 
+## Deployment
+[Check it out here](https://task-manager-five-jade.vercel.app/)
+
 ## Functionalities:
 - Add task.
 - Edit task.
